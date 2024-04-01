@@ -1,1 +1,1 @@
-# tamagotchi
+# Java text tamagotchi
